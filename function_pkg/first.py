@@ -2,7 +2,7 @@
 # Author        : Snehal Khairnar
 # Version       : v1.0
 # Created Date  : 15/10/2021
-# Description   : function example 1
+# Description   : function exercise 1
 # Licensing     : Snehal Khairnar, LYIT
 # ----------------------------------
 
