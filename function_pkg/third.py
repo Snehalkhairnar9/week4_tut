@@ -32,9 +32,7 @@ while select != 0:
               "Msc in cloud computing and",
               "Msc in data science")
         break
-  #  print()
-  #  option()
-#select = int(input("enter the option"))
+
 
 
 

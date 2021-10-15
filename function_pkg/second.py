@@ -8,11 +8,5 @@
 
 import encodings
 import timeit
-
-
-    def pwd(passowrd):
-        print("enter tha password " + password)
-
-
-
-
+pwd = str(input("enter the password"))
+print("timetaken", timeit.)
