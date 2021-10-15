@@ -26,8 +26,11 @@ while select != 0:
         break
 
     elif select == 3:
-        print(pprint)
-     #   pprint("Bsc in Cyber security", "Msc in Devops", "Msc in Cyber security", "Msc in cloud computing", "Msc in data science")
+        print("Bsc in Cyber security and",
+              "Msc in Devops and",
+              "Msc in Cyber security and ",
+              "Msc in cloud computing and",
+              "Msc in data science")
         break
   #  print()
   #  option()
