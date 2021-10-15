@@ -13,6 +13,25 @@ def option():
     print("option 4 : Check if course name has comman in code")
 option()
 select = int(input("enter the option"))
+print(select)
+
+while select != 0:
+    if select == 1:
+        print("Bsc in Cyber security", "Msc in Devops", "Msc in Cyber security", "Msc in cloud computing", "Msc in data science")
+        break
+
+    elif select == 2:
+        new_course_name = int(input("enter the course name"))
+        print(new_course_name)
+        break
+
+    elif select == 3:
+        print(pprint)
+     #   pprint("Bsc in Cyber security", "Msc in Devops", "Msc in Cyber security", "Msc in cloud computing", "Msc in data science")
+        break
+  #  print()
+  #  option()
+#select = int(input("enter the option"))
 
 
 
